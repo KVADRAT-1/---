@@ -20,7 +20,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build",
-    "commit": "git add -A && git status && git commit -m 02.11.2021/17:59 && git push origin main"
+    "commit": "git add -A && git status && git commit -m 02.11.2021/18:00 && git push origin main"
   },
   "eslintConfig": {
     "extends": [
